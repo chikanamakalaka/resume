@@ -1,12 +1,12 @@
-PWD /home/mhocker/Downloads/Awesome CV
+PWD /home/mhocker/src/resume
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
-INPUT /home/mhocker/Downloads/Awesome CV/resume.tex
-OUTPUT /home/mhocker/Downloads/Awesome CV/resume.log
-INPUT /home/mhocker/Downloads/Awesome CV/awesome-cv.cls
-INPUT /home/mhocker/Downloads/Awesome CV/awesome-cv.cls
+INPUT /home/mhocker/src/resume/resume.tex
+OUTPUT /home/mhocker/src/resume/resume.log
+INPUT /home/mhocker/src/resume/awesome-cv.cls
+INPUT /home/mhocker/src/resume/awesome-cv.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -94,8 +94,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex
-INPUT /home/mhocker/Downloads/Awesome CV/fontawesome.sty
-INPUT /home/mhocker/Downloads/Awesome CV/fontawesome.sty
+INPUT /home/mhocker/src/resume/fontawesome.sty
+INPUT /home/mhocker/src/resume/fontawesome.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -129,27 +129,27 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT /home/mhocker/Downloads/Awesome CV/resume.aux
-INPUT /home/mhocker/Downloads/Awesome CV/resume.aux
-OUTPUT /home/mhocker/Downloads/Awesome CV/resume.aux
+INPUT /home/mhocker/src/resume/resume.aux
+INPUT /home/mhocker/src/resume/resume.aux
+OUTPUT /home/mhocker/src/resume/resume.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /home/mhocker/Downloads/Awesome CV/resume.out
-INPUT /home/mhocker/Downloads/Awesome CV/resume.out
-INPUT /home/mhocker/Downloads/Awesome CV/resume.out
-INPUT /home/mhocker/Downloads/Awesome CV/resume.out
-OUTPUT /home/mhocker/Downloads/Awesome CV/resume.out
-INPUT /home/mhocker/Downloads/Awesome CV/resume/summary.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/summary.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/skills.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/skills.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/experience.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/experience.tex
+INPUT /home/mhocker/src/resume/resume.out
+INPUT /home/mhocker/src/resume/resume.out
+INPUT /home/mhocker/src/resume/resume.out
+INPUT /home/mhocker/src/resume/resume.out
+OUTPUT /home/mhocker/src/resume/resume.out
+INPUT /home/mhocker/src/resume/resume/summary.tex
+INPUT /home/mhocker/src/resume/resume/summary.tex
+INPUT /home/mhocker/src/resume/resume/skills.tex
+INPUT /home/mhocker/src/resume/resume/skills.tex
+INPUT /home/mhocker/src/resume/resume/experience.tex
+INPUT /home/mhocker/src/resume/resume/experience.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
-INPUT /home/mhocker/Downloads/Awesome CV/resume/education.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume/education.tex
-INPUT /home/mhocker/Downloads/Awesome CV/resume.aux
+INPUT /home/mhocker/src/resume/resume/education.tex
+INPUT /home/mhocker/src/resume/resume/education.tex
+INPUT /home/mhocker/src/resume/resume.aux
